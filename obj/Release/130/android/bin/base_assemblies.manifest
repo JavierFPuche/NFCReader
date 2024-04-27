@@ -1,0 +1,13 @@
+Hash 32     Hash 64             Blob ID  Blob idx  Name
+0xf2b3dde9  0x3d72bca58b2b26ea  000      0000      NFCReader
+0xc86c06e3  0x90bf592ea44f6673  000      0001      Xamarin.AndroidX.Core
+0x1a605985  0x4836f704f0e652c5  000      0002      Xamarin.Essentials
+0x3751ef41  0xbab63e4543a86cec  000      0003      Xamarin.Google.Guava.ListenableFuture
+0xc8a662e9  0x77b654e585b55834  000      0004      Java.Interop
+0xcf3163e6  0x01accec39cafe242  000      0005      Mono.Android
+0x1bc4415d  0xe99c30c1484d7f4f  000      0006      mscorlib
+0xf76edc75  0x98f9bc61168392ac  000      0007      System.Core
+0x41761b2c  0xe03056ea4e39aa26  000      0008      System
+0x132b30dd  0x31042a9aade235bb  000      0009      System.Numerics
+0x8334206b  0x6a3a4366801b8264  000      0010      System.Net.Http
+0xc197c562  0x8ac2470b209ebae3  000      0011      Mono.Security

@@ -1,0 +1,6 @@
+NFCReader.MainActivity, NFCReader;crc64e4e146caada1aefb.MainActivity
+NFCReader.MainActivity;crc64e4e146caada1aefb.MainActivity
+nfcreader.MainActivity;crc64e4e146caada1aefb.MainActivity
+Google.Common.Util.Concurrent.IListenableFuture, Xamarin.Google.Guava.ListenableFuture;com.google.common.util.concurrent.ListenableFuture
+Google.Common.Util.Concurrent.IListenableFuture;com.google.common.util.concurrent.ListenableFuture
+com.google.common.util.concurrent.ListenableFuture;com.google.common.util.concurrent.ListenableFuture
