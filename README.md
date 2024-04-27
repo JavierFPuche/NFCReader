@@ -1,5 +1,5 @@
 # NFCReader
-repositorio con el proyecto Xamarin NFCReader. Lectura de NFC y posible funcionamiento de emisión de NFC (obsoleto)
+Repositorio con el proyecto Xamarin NFCReader. Lectura de NFC y posible funcionamiento de emisión de NFC (obsoleto)
 Para la instalación en Windows, se deben realizar los siguientes pasos:
   1. Visual Studio (en mi caso usé Visual Studio Professional 2022).
   2. En Visual Studio añadimos el proyecto y nos pedirá al abrirlo que intalemos los paquetes de SDK y de Xamarin.
